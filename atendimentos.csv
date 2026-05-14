@@ -1,0 +1,648 @@
+data_atendimento,usuario,motivo,tempo_resolucao_min
+2026-04-30,yasmin_araujo,Hora extra,17
+2026-04-30,helena_cardoso,Hora extra,19
+2026-04-30,nicolas_lima,Outros,18
+2026-04-30,gustavo_lima,Erros no sistema,13
+2026-04-30,joao_ribeiro,Hora extra,23
+2026-04-30,sabrina_ribeiro,Ajuste de ponto/horário,29
+2026-04-30,paulo_rodrigues,Atestados,18
+2026-04-30,joao_monteiro,Hora extra,26
+2026-04-30,thiago_rocha,Relatório ponto,25
+2026-04-30,juliana_melo,Erros no sistema,11
+2026-04-29,rafael_pires,Ajuste de ponto/horário,17
+2026-04-29,caio_cunha,Relatório ponto,19
+2026-04-29,daniel_souza,Hora extra,21
+2026-04-29,otavio_fernandes,Ajuste de ponto/horário,20
+2026-04-29,juliana_dias,Relatório ponto,16
+2026-04-29,carlos_almeida,Atestados,22
+2026-04-29,ana_ribeiro,Hora extra,15
+2026-04-29,sabrina_nascimento,Atestados,22
+2026-04-29,aline_martins,Ajuste de ponto/horário,27
+2026-04-29,william_monteiro,Outros,30
+2026-04-29,mariana_rodrigues,Relatório ponto,20
+2026-04-28,paulo_fernandes,Relatório ponto,17
+2026-04-28,zuleica_costa,Relatório ponto,21
+2026-04-28,marcelo_dias,Outros,22
+2026-04-28,vitor_martins,Erros no sistema,16
+2026-04-28,thiago_almeida,Erros no sistema,25
+2026-04-28,bruno_silva,Hora extra,21
+2026-04-28,elaine_moreira,Relatório ponto,19
+2026-04-28,gabriel_farias,Relatório ponto,13
+2026-04-28,marcelo_fernandes,Atestados,20
+2026-04-28,vitor_gomes,Ajuste de ponto/horário,20
+2026-04-28,eduardo_dias,Hora extra,19
+2026-04-28,igor_cunha,Relatório ponto,22
+2026-04-27,hugo_cardoso,Atestados,16
+2026-04-27,daniel_moura,Hora extra,12
+2026-04-27,patricia_rodrigues,Atestados,17
+2026-04-27,mariana_rodrigues,Relatório ponto,28
+2026-04-27,igor_rodrigues,Relatório ponto,19
+2026-04-27,felipe_rodrigues,Outros,9
+2026-04-27,gabriel_dias,Relatório ponto,12
+2026-04-27,helena_rodrigues,Outros,16
+2026-04-27,joao_pereira,Relatório ponto,17
+2026-04-27,natalia_nascimento,Atestados,23
+2026-04-27,ana_farias,Ajuste de ponto/horário,26
+2026-04-27,yasmin_moreira,Hora extra,24
+2026-04-27,eduardo_oliveira,Outros,23
+2026-04-27,helena_fernandes,Erros no sistema,9
+2026-04-24,yasmin_araujo,Atestados,13
+2026-04-24,otavio_rodrigues,Erros no sistema,14
+2026-04-24,caio_nascimento,Atestados,19
+2026-04-24,samuel_correia,Relatório ponto,23
+2026-04-24,hugo_martins,Relatório ponto,19
+2026-04-24,otavio_moura,Relatório ponto,17
+2026-04-24,marcelo_cardoso,Relatório ponto,24
+2026-04-24,otavio_rodrigues,Atestados,27
+2026-04-24,joao_pires,Relatório ponto,20
+2026-04-23,rafael_rocha,Erros no sistema,15
+2026-04-23,eduardo_costa,Ajuste de ponto/horário,16
+2026-04-23,carlos_freitas,Erros no sistema,17
+2026-04-23,gabriel_pereira,Atestados,24
+2026-04-23,eduardo_costa,Hora extra,22
+2026-04-23,vanessa_freitas,Relatório ponto,11
+2026-04-23,carlos_freitas,Relatório ponto,23
+2026-04-23,ana_farias,Atestados,16
+2026-04-23,elaine_moreira,Atestados,22
+2026-04-23,eduardo_silva,Relatório ponto,16
+2026-04-22,lucas_gomes,Outros,10
+2026-04-22,zuleica_cardoso,Erros no sistema,24
+2026-04-22,lucas_gomes,Hora extra,13
+2026-04-22,paulo_fernandes,Erros no sistema,13
+2026-04-22,eduardo_oliveira,Hora extra,30
+2026-04-22,otavio_gomes,Erros no sistema,18
+2026-04-22,nicolas_lima,Atestados,19
+2026-04-22,joao_rocha,Erros no sistema,30
+2026-04-22,samuel_dias,Ajuste de ponto/horário,18
+2026-04-22,caio_cunha,Hora extra,26
+2026-04-22,paulo_fernandes,Relatório ponto,14
+2026-04-22,mariana_moreira,Relatório ponto,23
+2026-04-22,gabriel_correia,Relatório ponto,11
+2026-04-20,felipe_correia,Ajuste de ponto/horário,16
+2026-04-20,hugo_martins,Atestados,21
+2026-04-20,marcelo_cardoso,Erros no sistema,22
+2026-04-20,ana_ribeiro,Atestados,24
+2026-04-20,isabela_batista,Hora extra,29
+2026-04-20,felipe_lima,Relatório ponto,24
+2026-04-20,helena_moreira,Relatório ponto,21
+2026-04-20,paulo_almeida,Outros,17
+2026-04-20,lucas_farias,Ajuste de ponto/horário,23
+2026-04-20,fernanda_silva,Relatório ponto,16
+2026-04-20,paulo_rodrigues,Atestados,28
+2026-04-20,ana_ribeiro,Relatório ponto,28
+2026-04-20,isabela_oliveira,Erros no sistema,30
+2026-04-20,felipe_dias,Ajuste de ponto/horário,17
+2026-04-20,isabela_batista,Erros no sistema,17
+2026-04-17,bruno_moreira,Hora extra,23
+2026-04-17,joao_rocha,Hora extra,13
+2026-04-17,igor_souza,Outros,10
+2026-04-17,gabriel_pereira,Hora extra,15
+2026-04-17,nicolas_barbosa,Relatório ponto,15
+2026-04-17,rafael_teixeira,Relatório ponto,11
+2026-04-17,lucas_lima,Hora extra,12
+2026-04-17,carlos_rodrigues,Erros no sistema,22
+2026-04-17,felipe_moreira,Erros no sistema,15
+2026-04-17,samuel_nascimento,Relatório ponto,12
+2026-04-16,patricia_martins,Relatório ponto,10
+2026-04-16,mariana_cunha,Ajuste de ponto/horário,13
+2026-04-16,patricia_cardoso,Relatório ponto,15
+2026-04-16,samuel_monteiro,Relatório ponto,15
+2026-04-16,juliana_lima,Relatório ponto,8
+2026-04-16,natalia_pereira,Relatório ponto,23
+2026-04-16,gabriel_correia,Ajuste de ponto/horário,16
+2026-04-16,hugo_monteiro,Atestados,27
+2026-04-16,ana_correia,Atestados,20
+2026-04-16,gabriel_lima,Relatório ponto,11
+2026-04-15,mariana_lima,Erros no sistema,19
+2026-04-15,samuel_cardoso,Erros no sistema,21
+2026-04-15,samuel_monteiro,Relatório ponto,20
+2026-04-15,vitor_lima,Relatório ponto,19
+2026-04-15,juliana_teixeira,Relatório ponto,19
+2026-04-15,sabrina_ribeiro,Erros no sistema,28
+2026-04-15,rafael_correia,Relatório ponto,17
+2026-04-15,zuleica_oliveira,Erros no sistema,20
+2026-04-15,caio_dias,Outros,26
+2026-04-15,gabriel_dias,Hora extra,17
+2026-04-15,patricia_costa,Outros,20
+2026-04-14,fernanda_cardoso,Ajuste de ponto/horário,19
+2026-04-14,otavio_rodrigues,Erros no sistema,21
+2026-04-14,vitor_ribeiro,Relatório ponto,20
+2026-04-14,daniel_moura,Relatório ponto,22
+2026-04-14,rafael_ribeiro,Erros no sistema,13
+2026-04-14,tatiane_correia,Erros no sistema,23
+2026-04-14,carlos_gomes,Relatório ponto,20
+2026-04-14,thiago_almeida,Relatório ponto,19
+2026-04-14,vitor_cunha,Ajuste de ponto/horário,27
+2026-04-14,otavio_cunha,Atestados,17
+2026-04-14,renata_dias,Relatório ponto,20
+2026-04-14,patricia_gomes,Outros,10
+2026-04-14,hugo_araujo,Relatório ponto,21
+2026-04-14,aline_martins,Relatório ponto,13
+2026-04-13,helena_fernandes,Hora extra,26
+2026-04-13,joao_cardoso,Outros,20
+2026-04-13,otavio_fernandes,Erros no sistema,15
+2026-04-13,nicolas_farias,Ajuste de ponto/horário,28
+2026-04-13,otavio_gomes,Relatório ponto,22
+2026-04-13,rafael_freitas,Relatório ponto,19
+2026-04-13,william_martins,Outros,12
+2026-04-13,helena_rodrigues,Relatório ponto,18
+2026-04-13,samuel_farias,Relatório ponto,22
+2026-04-13,fernanda_barbosa,Atestados,19
+2026-04-13,sabrina_barbosa,Ajuste de ponto/horário,16
+2026-04-13,carlos_gomes,Ajuste de ponto/horário,20
+2026-04-13,helena_rodrigues,Relatório ponto,15
+2026-04-13,otavio_rodrigues,Relatório ponto,20
+2026-04-10,fernanda_gomes,Ajuste de ponto/horário,19
+2026-04-10,thiago_batista,Outros,11
+2026-04-10,marcelo_melo,Ajuste de ponto/horário,21
+2026-04-10,william_ribeiro,Outros,21
+2026-04-10,caio_dias,Relatório ponto,18
+2026-04-10,caio_nascimento,Relatório ponto,20
+2026-04-10,vanessa_fernandes,Hora extra,22
+2026-04-10,sabrina_ribeiro,Ajuste de ponto/horário,29
+2026-04-10,igor_barbosa,Hora extra,29
+2026-04-09,juliana_lima,Outros,12
+2026-04-09,joao_pires,Atestados,15
+2026-04-09,bruno_silva,Ajuste de ponto/horário,14
+2026-04-09,renata_rocha,Atestados,19
+2026-04-09,ana_correia,Relatório ponto,20
+2026-04-09,hugo_pires,Relatório ponto,27
+2026-04-09,felipe_almeida,Erros no sistema,23
+2026-04-09,helena_gomes,Atestados,21
+2026-04-09,helena_fernandes,Atestados,25
+2026-04-09,joao_nascimento,Relatório ponto,13
+2026-04-08,elaine_batista,Relatório ponto,13
+2026-04-08,karen_souza,Erros no sistema,15
+2026-04-08,gabriel_costa,Outros,23
+2026-04-08,vitor_martins,Erros no sistema,26
+2026-04-08,fernanda_batista,Relatório ponto,17
+2026-04-08,lucas_gomes,Erros no sistema,13
+2026-04-08,felipe_fernandes,Ajuste de ponto/horário,16
+2026-04-08,rafael_freitas,Relatório ponto,11
+2026-04-08,igor_araujo,Relatório ponto,23
+2026-04-08,juliana_dias,Relatório ponto,23
+2026-04-08,hugo_cardoso,Ajuste de ponto/horário,18
+2026-04-08,felipe_rodrigues,Ajuste de ponto/horário,25
+2026-04-08,caio_farias,Ajuste de ponto/horário,22
+2026-04-07,hugo_araujo,Erros no sistema,27
+2026-04-07,renata_dias,Atestados,27
+2026-04-07,gustavo_rocha,Relatório ponto,21
+2026-04-07,renata_silva,Erros no sistema,24
+2026-04-07,bruno_correia,Relatório ponto,11
+2026-04-07,aline_martins,Erros no sistema,22
+2026-04-07,marcelo_nascimento,Hora extra,18
+2026-04-07,paulo_rodrigues,Atestados,14
+2026-04-07,yasmin_silva,Relatório ponto,25
+2026-04-07,diego_correia,Erros no sistema,32
+2026-04-07,patricia_rodrigues,Erros no sistema,18
+2026-04-07,otavio_rodrigues,Relatório ponto,22
+2026-04-06,felipe_correia,Erros no sistema,20
+2026-04-06,yasmin_moreira,Relatório ponto,21
+2026-04-06,diego_martins,Hora extra,18
+2026-04-06,marcelo_cardoso,Ajuste de ponto/horário,20
+2026-04-06,lucas_teixeira,Hora extra,16
+2026-04-06,samuel_melo,Erros no sistema,20
+2026-04-06,igor_araujo,Relatório ponto,20
+2026-04-06,gabriel_fernandes,Outros,12
+2026-04-06,caio_lima,Hora extra,25
+2026-04-06,felipe_lima,Ajuste de ponto/horário,15
+2026-04-06,mariana_gomes,Relatório ponto,27
+2026-04-06,aline_batista,Erros no sistema,22
+2026-04-06,patricia_moura,Atestados,16
+2026-04-06,joao_pires,Erros no sistema,23
+2026-04-03,rafael_correia,Ajuste de ponto/horário,22
+2026-04-03,joao_monteiro,Outros,19
+2026-04-03,samuel_cardoso,Erros no sistema,27
+2026-04-03,paulo_batista,Atestados,23
+2026-04-03,patricia_souza,Outros,20
+2026-04-03,thiago_almeida,Outros,15
+2026-04-03,diego_martins,Ajuste de ponto/horário,26
+2026-04-03,isabela_nascimento,Ajuste de ponto/horário,17
+2026-04-03,ana_moreira,Relatório ponto,21
+2026-04-02,nicolas_lima,Relatório ponto,21
+2026-04-02,rafael_teixeira,Hora extra,12
+2026-04-02,joao_almeida,Ajuste de ponto/horário,22
+2026-04-02,sabrina_barbosa,Erros no sistema,18
+2026-04-02,carlos_cunha,Outros,24
+2026-04-02,eduardo_silva,Relatório ponto,11
+2026-04-02,lucas_correia,Atestados,21
+2026-04-02,samuel_barbosa,Erros no sistema,14
+2026-04-02,ana_correia,Relatório ponto,19
+2026-04-02,otavio_moura,Atestados,21
+2026-04-02,gabriel_pereira,Ajuste de ponto/horário,21
+2026-04-02,nicolas_pereira,Hora extra,15
+2026-04-01,felipe_almeida,Erros no sistema,18
+2026-04-01,vanessa_pereira,Relatório ponto,14
+2026-04-01,gabriel_moreira,Hora extra,25
+2026-04-01,rafael_souza,Relatório ponto,8
+2026-04-01,lucas_correia,Outros,26
+2026-04-01,rafael_rocha,Relatório ponto,15
+2026-04-01,joao_rocha,Atestados,13
+2026-04-01,nicolas_ribeiro,Atestados,29
+2026-04-01,eduardo_fernandes,Erros no sistema,28
+2026-04-01,gabriel_pereira,Hora extra,9
+2026-04-01,paulo_lima,Relatório ponto,15
+2026-04-01,rafael_ribeiro,Outros,20
+2026-03-31,gabriel_pereira,Relatório ponto,27
+2026-03-31,caio_freitas,Relatório ponto,18
+2026-03-31,thiago_freitas,Erros no sistema,24
+2026-03-31,bruno_almeida,Atestados,16
+2026-03-31,sabrina_ribeiro,Erros no sistema,17
+2026-03-31,igor_almeida,Hora extra,24
+2026-03-31,carlos_cunha,Atestados,7
+2026-03-31,vitor_pires,Hora extra,20
+2026-03-31,aline_farias,Ajuste de ponto/horário,24
+2026-03-30,vitor_gomes,Ajuste de ponto/horário,21
+2026-03-30,helena_dias,Hora extra,15
+2026-03-30,diego_cunha,Relatório ponto,14
+2026-03-30,igor_almeida,Ajuste de ponto/horário,20
+2026-03-30,tatiane_melo,Ajuste de ponto/horário,19
+2026-03-30,joao_moreira,Outros,17
+2026-03-30,elaine_batista,Outros,32
+2026-03-30,gustavo_farias,Erros no sistema,21
+2026-03-30,joao_cardoso,Ajuste de ponto/horário,23
+2026-03-30,gabriel_dias,Hora extra,20
+2026-03-30,sabrina_pires,Relatório ponto,20
+2026-03-27,elaine_pires,Hora extra,18
+2026-03-27,fernanda_gomes,Relatório ponto,27
+2026-03-27,bruno_souza,Atestados,24
+2026-03-27,mariana_cunha,Atestados,18
+2026-03-27,lucas_lima,Relatório ponto,20
+2026-03-27,lucas_oliveira,Atestados,24
+2026-03-26,hugo_martins,Hora extra,24
+2026-03-26,ana_silva,Hora extra,12
+2026-03-26,paulo_cunha,Relatório ponto,12
+2026-03-26,vanessa_moura,Ajuste de ponto/horário,23
+2026-03-26,nicolas_farias,Outros,20
+2026-03-26,gabriel_dias,Outros,18
+2026-03-26,elaine_moreira,Ajuste de ponto/horário,25
+2026-03-26,samuel_dias,Hora extra,26
+2026-03-25,thiago_ribeiro,Erros no sistema,21
+2026-03-25,vitor_rodrigues,Atestados,26
+2026-03-25,vanessa_pereira,Atestados,16
+2026-03-25,elaine_batista,Relatório ponto,21
+2026-03-25,william_martins,Outros,15
+2026-03-25,vanessa_costa,Hora extra,10
+2026-03-25,vitor_souza,Relatório ponto,16
+2026-03-25,natalia_cunha,Erros no sistema,25
+2026-03-24,natalia_gomes,Hora extra,20
+2026-03-24,tatiane_melo,Outros,30
+2026-03-24,joao_nascimento,Hora extra,20
+2026-03-24,vanessa_martins,Erros no sistema,14
+2026-03-24,sabrina_barbosa,Ajuste de ponto/horário,26
+2026-03-24,ana_correia,Atestados,13
+2026-03-24,elaine_pereira,Relatório ponto,29
+2026-03-24,felipe_correia,Ajuste de ponto/horário,22
+2026-03-24,nicolas_farias,Outros,27
+2026-03-23,caio_lima,Outros,20
+2026-03-23,juliana_moreira,Atestados,20
+2026-03-23,juliana_melo,Ajuste de ponto/horário,9
+2026-03-23,elaine_lima,Erros no sistema,20
+2026-03-23,ana_farias,Hora extra,22
+2026-03-23,gustavo_rocha,Relatório ponto,18
+2026-03-23,samuel_barbosa,Outros,14
+2026-03-23,caio_cunha,Erros no sistema,21
+2026-03-23,patricia_costa,Atestados,23
+2026-03-23,gabriel_correia,Relatório ponto,20
+2026-03-20,mariana_cunha,Relatório ponto,11
+2026-03-20,eduardo_fernandes,Outros,22
+2026-03-20,zuleica_costa,Hora extra,23
+2026-03-20,felipe_fernandes,Erros no sistema,24
+2026-03-20,lucas_correia,Ajuste de ponto/horário,16
+2026-03-20,william_batista,Ajuste de ponto/horário,23
+2026-03-20,marcelo_dias,Atestados,10
+2026-03-19,daniel_souza,Erros no sistema,24
+2026-03-19,zuleica_oliveira,Hora extra,23
+2026-03-19,diego_fernandes,Atestados,26
+2026-03-19,ana_silva,Relatório ponto,17
+2026-03-19,sabrina_pires,Ajuste de ponto/horário,21
+2026-03-19,nicolas_ribeiro,Atestados,18
+2026-03-19,diego_correia,Hora extra,23
+2026-03-19,gabriel_lima,Outros,22
+2026-03-18,joao_almeida,Outros,22
+2026-03-18,bruno_almeida,Erros no sistema,22
+2026-03-18,paulo_monteiro,Relatório ponto,23
+2026-03-18,paulo_martins,Relatório ponto,18
+2026-03-18,natalia_nascimento,Hora extra,22
+2026-03-18,joao_almeida,Erros no sistema,22
+2026-03-18,vanessa_pereira,Relatório ponto,27
+2026-03-18,joao_monteiro,Hora extra,26
+2026-03-17,helena_cardoso,Hora extra,17
+2026-03-17,caio_cardoso,Erros no sistema,16
+2026-03-17,renata_dias,Outros,23
+2026-03-17,renata_rodrigues,Atestados,15
+2026-03-17,eduardo_dias,Relatório ponto,14
+2026-03-17,thiago_ribeiro,Relatório ponto,18
+2026-03-17,lucas_farias,Relatório ponto,15
+2026-03-17,hugo_cardoso,Atestados,15
+2026-03-17,samuel_nascimento,Atestados,26
+2026-03-16,samuel_ribeiro,Erros no sistema,13
+2026-03-16,diego_martins,Atestados,13
+2026-03-16,vanessa_martins,Ajuste de ponto/horário,20
+2026-03-16,helena_moreira,Erros no sistema,30
+2026-03-16,ana_rodrigues,Hora extra,19
+2026-03-16,leandro_almeida,Relatório ponto,20
+2026-03-16,tatiane_correia,Ajuste de ponto/horário,26
+2026-03-16,natalia_barbosa,Relatório ponto,27
+2026-03-16,mariana_cunha,Erros no sistema,18
+2026-03-16,ana_silva,Outros,21
+2026-03-16,paulo_fernandes,Erros no sistema,26
+2026-03-13,hugo_pires,Erros no sistema,18
+2026-03-13,gustavo_farias,Outros,19
+2026-03-13,thiago_freitas,Atestados,10
+2026-03-13,sabrina_araujo,Erros no sistema,15
+2026-03-13,elaine_teixeira,Relatório ponto,18
+2026-03-13,natalia_cunha,Hora extra,18
+2026-03-13,tatiane_silva,Atestados,19
+2026-03-12,vitor_lima,Outros,20
+2026-03-12,zuleica_moura,Relatório ponto,22
+2026-03-12,rafael_teixeira,Ajuste de ponto/horário,21
+2026-03-12,rafael_ribeiro,Atestados,26
+2026-03-12,caio_cunha,Erros no sistema,19
+2026-03-12,eduardo_oliveira,Relatório ponto,13
+2026-03-12,paulo_rodrigues,Relatório ponto,23
+2026-03-11,paulo_cunha,Relatório ponto,19
+2026-03-11,vanessa_freitas,Outros,23
+2026-03-11,juliana_melo,Relatório ponto,21
+2026-03-11,natalia_barbosa,Ajuste de ponto/horário,17
+2026-03-11,lucas_oliveira,Atestados,13
+2026-03-11,carlos_pires,Hora extra,26
+2026-03-11,joao_moreira,Relatório ponto,17
+2026-03-11,juliana_teixeira,Relatório ponto,22
+2026-03-11,caio_araujo,Outros,25
+2026-03-10,karen_fernandes,Erros no sistema,19
+2026-03-10,samuel_nascimento,Ajuste de ponto/horário,27
+2026-03-10,carlos_freitas,Hora extra,22
+2026-03-10,daniel_souza,Hora extra,19
+2026-03-10,vitor_ribeiro,Erros no sistema,21
+2026-03-10,juliana_dias,Erros no sistema,24
+2026-03-10,lucas_melo,Atestados,25
+2026-03-10,isabela_nascimento,Relatório ponto,19
+2026-03-10,bruno_silva,Relatório ponto,25
+2026-03-10,joao_ribeiro,Hora extra,23
+2026-03-09,daniel_ribeiro,Erros no sistema,18
+2026-03-09,otavio_cunha,Relatório ponto,25
+2026-03-09,otavio_rodrigues,Hora extra,26
+2026-03-09,vitor_gomes,Erros no sistema,14
+2026-03-09,mariana_teixeira,Relatório ponto,19
+2026-03-09,rafael_correia,Ajuste de ponto/horário,23
+2026-03-09,juliana_farias,Relatório ponto,17
+2026-03-09,felipe_correia,Hora extra,17
+2026-03-09,fernanda_barbosa,Relatório ponto,22
+2026-03-09,samuel_gomes,Erros no sistema,32
+2026-03-06,elaine_lima,Outros,16
+2026-03-06,daniel_moura,Erros no sistema,23
+2026-03-06,fernanda_gomes,Hora extra,26
+2026-03-06,carlos_ribeiro,Atestados,23
+2026-03-06,rafael_rocha,Ajuste de ponto/horário,17
+2026-03-06,lucas_moreira,Ajuste de ponto/horário,19
+2026-03-05,otavio_monteiro,Atestados,27
+2026-03-05,igor_rodrigues,Atestados,25
+2026-03-05,isabela_oliveira,Outros,17
+2026-03-05,paulo_pereira,Ajuste de ponto/horário,18
+2026-03-05,leandro_batista,Hora extra,13
+2026-03-05,lucas_oliveira,Hora extra,14
+2026-03-05,eduardo_costa,Relatório ponto,21
+2026-03-04,karen_fernandes,Atestados,23
+2026-03-04,renata_silva,Relatório ponto,8
+2026-03-04,mariana_rodrigues,Relatório ponto,17
+2026-03-04,paulo_batista,Outros,15
+2026-03-04,nicolas_nascimento,Atestados,23
+2026-03-04,renata_dias,Relatório ponto,23
+2026-03-04,igor_lima,Hora extra,22
+2026-03-04,carlos_cunha,Hora extra,19
+2026-03-04,igor_lima,Relatório ponto,28
+2026-03-03,carlos_monteiro,Hora extra,22
+2026-03-03,vanessa_lima,Relatório ponto,15
+2026-03-03,otavio_gomes,Hora extra,14
+2026-03-03,paulo_oliveira,Atestados,12
+2026-03-03,nicolas_farias,Atestados,19
+2026-03-03,diego_nascimento,Hora extra,8
+2026-03-03,otavio_gomes,Atestados,27
+2026-03-03,caio_farias,Relatório ponto,20
+2026-03-03,igor_cunha,Outros,18
+2026-03-02,natalia_costa,Relatório ponto,22
+2026-03-02,caio_freitas,Relatório ponto,19
+2026-03-02,renata_rodrigues,Hora extra,22
+2026-03-02,thiago_almeida,Relatório ponto,24
+2026-03-02,patricia_gomes,Relatório ponto,23
+2026-03-02,william_monteiro,Atestados,20
+2026-03-02,bruno_souza,Erros no sistema,22
+2026-03-02,diego_fernandes,Atestados,20
+2026-03-02,nicolas_lima,Relatório ponto,32
+2026-03-02,vanessa_fernandes,Relatório ponto,21
+2026-02-27,daniel_silva,Ajuste de ponto/horário,14
+2026-02-27,samuel_monteiro,Ajuste de ponto/horário,32
+2026-02-27,thiago_nascimento,Hora extra,16
+2026-02-27,mariana_rocha,Erros no sistema,21
+2026-02-27,marcelo_melo,Erros no sistema,15
+2026-02-27,ana_correia,Hora extra,24
+2026-02-27,natalia_pires,Erros no sistema,25
+2026-02-27,joao_rocha,Relatório ponto,9
+2026-02-27,paulo_almeida,Outros,29
+2026-02-27,sabrina_teixeira,Relatório ponto,20
+2026-02-26,helena_rodrigues,Outros,16
+2026-02-26,patricia_cardoso,Relatório ponto,22
+2026-02-26,igor_barbosa,Hora extra,18
+2026-02-26,paulo_oliveira,Relatório ponto,30
+2026-02-26,caio_rodrigues,Hora extra,26
+2026-02-26,sabrina_pires,Relatório ponto,25
+2026-02-26,mariana_dias,Hora extra,13
+2026-02-26,zuleica_costa,Erros no sistema,11
+2026-02-26,diego_moreira,Outros,26
+2026-02-26,isabela_farias,Ajuste de ponto/horário,21
+2026-02-25,sabrina_monteiro,Relatório ponto,13
+2026-02-25,william_ribeiro,Outros,21
+2026-02-25,daniel_pereira,Atestados,5
+2026-02-25,vitor_martins,Relatório ponto,13
+2026-02-25,aline_farias,Relatório ponto,18
+2026-02-25,mariana_moreira,Erros no sistema,16
+2026-02-25,helena_dias,Erros no sistema,23
+2026-02-25,natalia_pereira,Atestados,11
+2026-02-25,lucas_teixeira,Relatório ponto,24
+2026-02-25,igor_barbosa,Outros,24
+2026-02-25,zuleica_farias,Outros,20
+2026-02-24,daniel_dias,Outros,26
+2026-02-24,yasmin_silva,Relatório ponto,18
+2026-02-24,sabrina_barbosa,Atestados,15
+2026-02-24,ana_batista,Erros no sistema,28
+2026-02-24,gabriel_costa,Erros no sistema,19
+2026-02-24,lucas_gomes,Relatório ponto,23
+2026-02-24,vanessa_moura,Erros no sistema,21
+2026-02-24,joao_cardoso,Relatório ponto,21
+2026-02-24,paulo_ribeiro,Erros no sistema,18
+2026-02-24,nicolas_barbosa,Atestados,17
+2026-02-24,paulo_lima,Atestados,25
+2026-02-24,samuel_correia,Ajuste de ponto/horário,23
+2026-02-23,leandro_lima,Relatório ponto,19
+2026-02-23,sabrina_barbosa,Hora extra,15
+2026-02-23,gustavo_lima,Relatório ponto,15
+2026-02-23,helena_fernandes,Relatório ponto,26
+2026-02-23,mariana_gomes,Relatório ponto,20
+2026-02-23,gabriel_farias,Ajuste de ponto/horário,19
+2026-02-23,samuel_dias,Atestados,24
+2026-02-23,william_martins,Outros,28
+2026-02-23,gabriel_fernandes,Relatório ponto,10
+2026-02-23,juliana_moreira,Relatório ponto,21
+2026-02-23,isabela_araujo,Hora extra,18
+2026-02-23,thiago_batista,Ajuste de ponto/horário,19
+2026-02-23,joao_pereira,Outros,21
+2026-02-23,felipe_rodrigues,Relatório ponto,16
+2026-02-23,mariana_moreira,Atestados,17
+2026-02-23,carlos_gomes,Erros no sistema,12
+2026-02-20,gustavo_rocha,Relatório ponto,25
+2026-02-20,vitor_cunha,Hora extra,20
+2026-02-20,igor_costa,Relatório ponto,23
+2026-02-20,gabriel_pereira,Ajuste de ponto/horário,16
+2026-02-20,hugo_araujo,Relatório ponto,26
+2026-02-20,helena_gomes,Ajuste de ponto/horário,28
+2026-02-20,felipe_fernandes,Outros,13
+2026-02-20,karen_souza,Relatório ponto,22
+2026-02-19,marcelo_nascimento,Ajuste de ponto/horário,21
+2026-02-19,renata_dias,Hora extra,20
+2026-02-19,rafael_souza,Relatório ponto,25
+2026-02-19,fernanda_silva,Ajuste de ponto/horário,17
+2026-02-19,vanessa_moreira,Ajuste de ponto/horário,15
+2026-02-19,patricia_costa,Atestados,23
+2026-02-19,fernanda_dias,Hora extra,26
+2026-02-19,ana_farias,Erros no sistema,13
+2026-02-19,caio_nascimento,Relatório ponto,27
+2026-02-18,samuel_moreira,Erros no sistema,23
+2026-02-18,joao_nascimento,Relatório ponto,20
+2026-02-18,william_batista,Relatório ponto,21
+2026-02-18,carlos_rodrigues,Atestados,28
+2026-02-18,hugo_martins,Erros no sistema,21
+2026-02-18,vitor_barbosa,Relatório ponto,15
+2026-02-18,joao_correia,Outros,14
+2026-02-18,caio_batista,Ajuste de ponto/horário,25
+2026-02-18,rafael_pires,Erros no sistema,22
+2026-02-18,sabrina_ribeiro,Outros,19
+2026-02-17,gustavo_fernandes,Relatório ponto,25
+2026-02-17,marcelo_araujo,Hora extra,15
+2026-02-17,hugo_monteiro,Ajuste de ponto/horário,21
+2026-02-17,felipe_lima,Ajuste de ponto/horário,22
+2026-02-17,paulo_cunha,Ajuste de ponto/horário,19
+2026-02-17,aline_batista,Relatório ponto,18
+2026-02-17,sabrina_nascimento,Ajuste de ponto/horário,17
+2026-02-17,lucas_moreira,Outros,13
+2026-02-17,aline_lima,Relatório ponto,13
+2026-02-17,samuel_cardoso,Atestados,19
+2026-02-17,isabela_pereira,Atestados,25
+2026-02-17,bruno_moreira,Outros,29
+2026-02-16,samuel_barbosa,Ajuste de ponto/horário,11
+2026-02-16,igor_souza,Hora extra,19
+2026-02-16,isabela_batista,Ajuste de ponto/horário,26
+2026-02-16,vitor_pires,Hora extra,26
+2026-02-16,eduardo_fernandes,Hora extra,19
+2026-02-16,natalia_souza,Atestados,28
+2026-02-16,aline_batista,Relatório ponto,23
+2026-02-16,igor_araujo,Relatório ponto,17
+2026-02-16,aline_freitas,Ajuste de ponto/horário,13
+2026-02-16,vitor_rodrigues,Relatório ponto,20
+2026-02-16,vanessa_costa,Atestados,26
+2026-02-16,igor_moura,Erros no sistema,19
+2026-02-16,tatiane_melo,Relatório ponto,22
+2026-02-16,diego_dias,Atestados,22
+2026-02-13,juliana_teixeira,Ajuste de ponto/horário,22
+2026-02-13,thiago_rodrigues,Relatório ponto,10
+2026-02-13,patricia_souza,Ajuste de ponto/horário,18
+2026-02-13,joao_pires,Relatório ponto,21
+2026-02-13,felipe_moreira,Ajuste de ponto/horário,15
+2026-02-13,marcelo_fernandes,Atestados,19
+2026-02-13,patricia_rodrigues,Erros no sistema,22
+2026-02-13,yasmin_silva,Relatório ponto,19
+2026-02-13,elaine_pereira,Atestados,25
+2026-02-12,elaine_moreira,Relatório ponto,20
+2026-02-12,elaine_pires,Relatório ponto,21
+2026-02-12,hugo_oliveira,Outros,13
+2026-02-12,thiago_rocha,Relatório ponto,13
+2026-02-12,mariana_lima,Hora extra,26
+2026-02-12,vanessa_almeida,Atestados,16
+2026-02-12,gabriel_cardoso,Relatório ponto,19
+2026-02-12,isabela_correia,Hora extra,26
+2026-02-12,zuleica_oliveira,Outros,21
+2026-02-11,carlos_araujo,Relatório ponto,22
+2026-02-11,gustavo_souza,Erros no sistema,22
+2026-02-11,juliana_lima,Ajuste de ponto/horário,14
+2026-02-11,rafael_freitas,Atestados,23
+2026-02-11,daniel_rodrigues,Relatório ponto,14
+2026-02-11,isabela_moreira,Hora extra,25
+2026-02-11,mariana_cunha,Outros,23
+2026-02-11,nicolas_pereira,Relatório ponto,10
+2026-02-11,patricia_moura,Relatório ponto,19
+2026-02-11,joao_almeida,Ajuste de ponto/horário,27
+2026-02-10,paulo_almeida,Relatório ponto,11
+2026-02-10,lucas_pires,Hora extra,14
+2026-02-10,natalia_pires,Hora extra,13
+2026-02-10,gabriel_monteiro,Erros no sistema,22
+2026-02-10,bruno_martins,Relatório ponto,24
+2026-02-10,igor_correia,Relatório ponto,18
+2026-02-10,otavio_moura,Atestados,22
+2026-02-10,carlos_almeida,Hora extra,15
+2026-02-10,joao_almeida,Ajuste de ponto/horário,15
+2026-02-10,juliana_correia,Erros no sistema,14
+2026-02-10,gabriel_dias,Erros no sistema,23
+2026-02-09,leandro_almeida,Hora extra,21
+2026-02-09,samuel_farias,Atestados,26
+2026-02-09,isabela_barbosa,Ajuste de ponto/horário,23
+2026-02-09,gustavo_pires,Erros no sistema,22
+2026-02-09,fernanda_batista,Outros,18
+2026-02-09,natalia_batista,Ajuste de ponto/horário,21
+2026-02-09,aline_martins,Relatório ponto,24
+2026-02-09,patricia_martins,Relatório ponto,21
+2026-02-09,caio_dias,Relatório ponto,25
+2026-02-09,gustavo_souza,Erros no sistema,20
+2026-02-09,gustavo_correia,Erros no sistema,24
+2026-02-09,samuel_melo,Erros no sistema,23
+2026-02-06,diego_cunha,Relatório ponto,21
+2026-02-06,caio_monteiro,Relatório ponto,19
+2026-02-06,lucas_pires,Relatório ponto,21
+2026-02-06,felipe_nascimento,Erros no sistema,22
+2026-02-06,paulo_silva,Erros no sistema,23
+2026-02-06,lucas_correia,Ajuste de ponto/horário,12
+2026-02-06,renata_almeida,Relatório ponto,19
+2026-02-06,karen_martins,Relatório ponto,23
+2026-02-06,nicolas_farias,Hora extra,25
+2026-02-05,joao_almeida,Atestados,27
+2026-02-05,renata_rocha,Outros,14
+2026-02-05,rafael_nascimento,Erros no sistema,21
+2026-02-05,mariana_cunha,Relatório ponto,11
+2026-02-05,yasmin_moreira,Hora extra,19
+2026-02-05,diego_lima,Outros,12
+2026-02-05,fernanda_cardoso,Hora extra,19
+2026-02-05,yasmin_araujo,Erros no sistema,12
+2026-02-05,helena_rocha,Erros no sistema,19
+2026-02-04,nicolas_farias,Ajuste de ponto/horário,17
+2026-02-04,gabriel_correia,Relatório ponto,18
+2026-02-04,marcelo_cardoso,Ajuste de ponto/horário,19
+2026-02-04,eduardo_silva,Hora extra,8
+2026-02-04,bruno_correia,Atestados,26
+2026-02-04,daniel_silva,Relatório ponto,32
+2026-02-04,samuel_almeida,Relatório ponto,23
+2026-02-04,diego_correia,Outros,19
+2026-02-04,aline_teixeira,Atestados,21
+2026-02-04,otavio_fernandes,Relatório ponto,17
+2026-02-03,diego_oliveira,Ajuste de ponto/horário,17
+2026-02-03,vanessa_pereira,Atestados,30
+2026-02-03,mariana_teixeira,Relatório ponto,21
+2026-02-03,felipe_dias,Relatório ponto,30
+2026-02-03,lucas_lima,Relatório ponto,17
+2026-02-03,ana_ribeiro,Ajuste de ponto/horário,19
+2026-02-03,caio_moura,Relatório ponto,25
+2026-02-03,renata_gomes,Relatório ponto,10
+2026-02-03,ana_moreira,Hora extra,18
+2026-02-03,gabriel_moreira,Ajuste de ponto/horário,14
+2026-02-03,juliana_martins,Erros no sistema,26
+2026-02-03,natalia_almeida,Relatório ponto,12
+2026-02-02,vitor_melo,Relatório ponto,20
+2026-02-02,caio_silva,Relatório ponto,26
+2026-02-02,patricia_nascimento,Ajuste de ponto/horário,18
+2026-02-02,igor_almeida,Outros,23
+2026-02-02,paulo_barbosa,Ajuste de ponto/horário,21
+2026-02-02,helena_monteiro,Atestados,24
+2026-02-02,paulo_correia,Outros,13
+2026-02-02,felipe_almeida,Atestados,24
+2026-02-02,zuleica_cardoso,Atestados,15
+2026-02-02,samuel_silva,Relatório ponto,17
+2026-02-02,patricia_cunha,Relatório ponto,17
+2026-02-02,gabriel_melo,Outros,20
